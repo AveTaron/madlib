@@ -1,4 +1,5 @@
 import random
+
 intro_input = input("Are you ready to play? type Y or N\n").lower()
 if intro_input == "y":
     print("""Great! Let me briefly introduce you the game. No time to introduce  
