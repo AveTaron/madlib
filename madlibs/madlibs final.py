@@ -6,7 +6,7 @@ if intro_input == "y":
 We have prepared 3 stories for you. Just choose one and say nothing """)
 
 else:
-    print("Get back when you want to play. Bye")
+    print("Get back when you want to play. Bye!")
     quit()
 print("""1. The one in a hospital 
 2. The one in hiking adventures
